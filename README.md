@@ -1,7 +1,6 @@
 # SQL-Sales-Analysis-Project
 
 🚀 SQL Sales Analysis Project Using MySQL 🚀
-I'm excited to share my latest project on Sales Analysis using MySQL!
 
 Analyzed Sales Data From Scratch To Gain Insights Into Product Performance And Sales Trends
 
